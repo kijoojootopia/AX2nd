@@ -3,7 +3,7 @@
 # + 국가명 미국 또는 베트남 + 수출금액 0 보다 큰 수 (실제 수출실적이 있는)
 # 다중 조건으로 필터링 한 뒤, 수출 금액 상위 10건 화면에 보여주고 report.csv로 저장
 # streamlit 사용: streamlit run day04_3.py
-# 민이바보
+# 민이바보아님
 
 import os
 import pandas as pd
