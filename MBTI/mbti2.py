@@ -18,7 +18,7 @@ st.set_page_config(
 # ----------------------------------------------------
 # 2. 다크그린 테마 및 온글잎 콘콘체 폰트 Base64 인라인 인젝션
 # ----------------------------------------------------
-FONT_PATH = "온글잎 콘콘체.ttf"
+FONT_PATH = "Ownglyph-Konkonche.ttf"
 
 font_css = ""
 if os.path.exists(FONT_PATH):
