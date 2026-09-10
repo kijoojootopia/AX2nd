@@ -97,7 +97,8 @@
 
 문항 수가 직무별로 3문항(15점 만점) 또는 4문항(20점 만점)으로 상이하므로, 공정한 비교를 위해 **100점 환산 백분율(Score Percentage)** 공식을 적용합니다.
 
-$$	ext{환산 점수}(\%) = \left( rac{	ext{해당 직무 응답 점수 합계} - 	ext{최소 가능 점수}}{	ext{최대 가능 점수} - 	ext{최소 가능 점수}} ight) 	imes 100$$
+$$	ext{환산 점수}(\%) = \left( rac{	ext{해당 직무 응답 점수 합계} - 	ext{최소 가능 점수}}{	ext{최대 가능 점수} - 	ext{최소 가능 점수}} 
+ight) 	imes 100$$
 
 * **1순위 (Primary Fit)**: 백분율 최고 득점 직무
 * **2순위 (Secondary Fit)**: 차순위 득점 직무 (복합 직무 시너지 분석)
@@ -150,7 +151,7 @@ pip install -r requirements.txt
 ```
 
 ### 3) 폰트 파일 배치
-`Ownglyph-Konkonche.ttf` 파일을 `assets/fonts/` 폴더 내에 배치합니다.
+`Ownglyph-Konkonche.ttf` 파일을 같은 폴더 내에 배치합니다.
 
 ### 4) Streamlit 앱 실행
 ```bash
